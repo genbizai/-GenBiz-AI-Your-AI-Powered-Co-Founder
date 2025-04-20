@@ -56,4 +56,6 @@ import numpy as np
 ✅ ALL STEPS COMPLETE: GenBiz AI Co-Founder is ready!")
 
 # Kaggle Note Book Link - https://www.kaggle.com/code/amit78919/genbiz-ai-zero-to-startup-ai-co-founder-project/edit
+# Blog Post Link - https://kagglecapstoneprojects2025google.blogspot.com/
+
 
