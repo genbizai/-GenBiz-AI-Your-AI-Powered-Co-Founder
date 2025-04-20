@@ -58,5 +58,6 @@ import numpy as np
 # Kaggle Note Book Link - https://www.kaggle.com/code/amit78919/genbiz-ai-zero-to-startup-ai-co-founder-project/edit
 # Blog Post Link - https://kagglecapstoneprojects2025google.blogspot.com/
 # Google Drive Link- https://drive.google.com/drive/folders/12_7oFw16Wyet49ojRV-KiQSsYKWtF5P_?usp=drive_link
+# YouTube Video Link- https://youtu.be/UEZFNyh8EAk
 
 
